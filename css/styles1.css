@@ -20,6 +20,13 @@ ul
 {
     list-style-type : none ;
 }
+.page-header {
+    text-align: center; 
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color: rgb(0, 0, 0);
+  }
+  
 .gradient {
   background: rgb(0, 0, 0);
   background: linear-gradient(
@@ -27,13 +34,6 @@ ul
     rgb(255, 230, 198) 0%,
     rgb(255, 230, 198) 100%
   );
-}
-
-.page-header {
-  text-align: center; 
-  margin-top: 4rem;
-  font-size: 1.25rem;
-  color: rgb(0, 0, 0);
 }
 
 .feature {
