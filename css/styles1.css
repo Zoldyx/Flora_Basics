@@ -29,6 +29,7 @@ ul
 }
 
 .page-header {
+  text-align: center; 
   margin-top: 4rem;
   font-size: 1.25rem;
   color: rgb(0, 0, 0);
