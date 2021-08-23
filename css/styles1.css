@@ -45,6 +45,10 @@ ul
 }
 
 .feature ul {
+    margin: 5px;
+    border: 1px solid;
+    float: left;
+width: 180px;
   padding-left: 2rem;
   list-style-type: none;
 }
